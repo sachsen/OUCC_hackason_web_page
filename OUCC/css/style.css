@@ -1,0 +1,24 @@
+@import url("css/reset.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+h1 {
+    font-family: 'Stick', sans-serif;
+  }
+  h2{
+    font-family: 'Stick', sans-serif;
+  }
+
+h3{
+  font-family: 'Stick', sans-serif;
+}
+  div.flex{
+    display: inline-flex;
+  }
+  div.inner{
+    display: inline-block;
+    vertical-align: middle;
+    flex-basis:50%;
+  }
+  img{
+    max-width:400px;
+  }
