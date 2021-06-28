@@ -1,0 +1,2 @@
+# OUCC_hackason_web_page
+ハッカソンの活動報告をしろとのお達しなので
